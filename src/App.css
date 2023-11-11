@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.flex-container{
+  background-color: black;
+  color: white;
+  width: 100%;
+}
+.flex-container ul {
+  display:flex;
+  justify-content: flex-end;
+  background-color: black;
+  margin: 10px;
+  list-style: none;
+  color: white;
+  
+}
+.flex-container h1{
+  margin-bottom: -40px;
+}
+
+.flex-container li{
+  
+  display: inline-block;
+  margin: 20px;
+  color: white;
+  border:solid 1px white;
+  border-radius: 15%;
+  padding: 5px;
+}
+
+.flex-container li:hover{
+  background-color: white;
+  color:black;
+  
+
+}
