@@ -1,0 +1,14 @@
+.form{
+    border: solid black 0.5px;
+    width: 50vh;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+}
+
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%
+}

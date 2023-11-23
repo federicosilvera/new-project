@@ -17,7 +17,7 @@
   
 }
 .flex-container h1{
-  margin-bottom: -40px;
+  margin-bottom: -60px;
 }
 
 .flex-container li{
@@ -31,8 +31,19 @@
 }
 
 .flex-container li:hover{
-  background-color: white;
-  color:black;
+  background-color: rgb(75, 75, 75);
+  
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
   
 
+h1{
+  display: flex;
+  text-align: center;
+  
 }
