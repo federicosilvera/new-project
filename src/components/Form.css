@@ -3,7 +3,7 @@
     width: 50vh;
     border-radius: 5px;
     color: white;
-    background-color: black;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
 }
 
 .form-container{
